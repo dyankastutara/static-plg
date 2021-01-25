@@ -1,0 +1,8 @@
+$theme-colors: (
+  "primary": #FA541C,
+  "danger": #ff4136
+);
+$body-bg: #000;
+$body-color: #111;
+
+@import "node_modules/bootstrap/scss/bootstrap";

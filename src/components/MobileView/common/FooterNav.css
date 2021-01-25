@@ -1,0 +1,91 @@
+.base {
+  background: #232f3e;
+  margin-top: 20;
+  color: #FFF;
+  text-align: center;
+}
+
+.baseDiv{
+  min-width:1024;
+  max-width:1366;
+  margin:auto;
+}
+
+.secondRow {
+  margin: 2em auto;
+}
+
+.column {
+  line-height: 1.8em;
+  display:flex;
+  justify-content:center;
+}
+
+.columnTitle {
+  font-size: 1.5em;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.3em;
+}
+
+.link {
+  font-family: arial,sans-serif;
+  color: #fff;
+  font-size: 12px;
+}
+.link:hover{
+  color: #fff;
+  text-decoration: underline;;
+}
+
+.containerFollow {
+ margin: 0.5em 0;
+ display: flex;
+}
+
+.text {
+ font-size: 13px;
+ margin-right: 0.5em;
+ font-weight: 500;
+}
+
+.follow-fb{
+  cursor: pointer;
+  margin-right: 5px;
+  border-radius: 2px;
+}
+.follow-fb:hover{
+  color:#fff;
+}
+.follow-twitter {
+  cursor: pointer;
+  margin-right: 5px;
+  border-radius: 2px;
+}
+.follow-twitter:hover{
+  color:#fff;
+}
+.follow-instagram {
+  cursor: pointer;
+  margin-right: 5px;
+  border-radius: 2px;
+}
+.follow-instagram:hover{
+  color:#fff;
+}
+.follow-google {
+  font-size: 25px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+.follow-linkedin {
+  font-size: 25px;
+  cursor: pointer;
+  margin-right: 5px;
+},
+
+.nav-footer-line {
+  /*border-top: 1px solid #3a4553;*/
+  border-top: 1px solid #fff;
+  padding-top: 40px;
+  margin-bottom: 40px;
+}

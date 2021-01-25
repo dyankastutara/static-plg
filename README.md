@@ -3,14 +3,17 @@
 ## To Use
 ```javascript
 - clone this repo
-- cd plasgos-front
+- cd static-plg
 - yarn install
 - yarn start
 ```
 ## Endpoint
 | No. | Route                          | Page          |
 |-----|--------------------------------|---------------|
-| 1.  | http://localhost:3000/         | Home Page     |
-| 2.  | http://localhost:3000/search   | Search Page   |
-| 3.  | http://localhost:3000/supplier | Supplier Page |
-| 4.  | http://localhost:3000/404      | 404 page      |
+| 1.  | /                              | Homepage      |
+| 2.  | /feed                          | Feed/Timeline |
+| 3.  | /favorites                     | Favorites     |
+| 4.  | /wishlist                      | Wishlist      |
+| 5.  | /account                       | Acccount      |
+| 6.  | /shop                          | Shop Page     |
+| 7.  | /product                       | Product page  |
